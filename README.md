@@ -20,7 +20,7 @@
     
     <main>
         <section class="hero">
-            <h1>你好，我是<span id="typing-text"></span></h1>
+            <h1>你好，我是环科2403班雷淏博<span id="typing-text"></span></h1>
             <p>欢迎来到我的个人网站</p>
             <button id="cta-button">了解更多</button>
         </section>
@@ -28,21 +28,21 @@
         <section class="highlights">
             <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
                 <h3>我的技能</h3>
-                <p>HTML, CSS, JavaScript, PHP, MySQL</p>
+                <p>做饭等</p>
             </div>
             <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
                 <h3>我的教育</h3>
-                <p>XX大学 计算机科学与技术专业</p>
+                <p>华中科技大学 环境科学与工程专业</p>
             </div>
             <div class="card" onmouseover="hoverCard(this)" onmouseout="unhoverCard(this)">
                 <h3>我的兴趣</h3>
-                <p>编程、摄影、旅行、阅读</p>
+                <p>看小说，羽毛球</p>
             </div>
         </section>
     </main>
     
     <footer>
-        <p>&copy; 2023 我的个人网站. 保留所有权利.</p>
+        <p>&copy; 2025 我的个人网站.</p>
     </footer>
     
     <script src="js/scripts.js"></script>
